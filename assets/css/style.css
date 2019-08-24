@@ -1,0 +1,39 @@
+header {
+  border: solid 2px #cccccc;
+}
+
+body {
+  width: 960px;
+  text-align: center;
+}
+
+h1 {
+
+  font-family: Georgia, Times, Times New Roman, serif;
+  background: #4aaaa5;
+  color: #ffffff;
+  
+}
+
+h2 {
+  font-family: Georgia, Times, Times New Roman, serif;
+  color: #4aaaa5;
+}
+
+.bioImg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+p, nav, .contact {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.aboutMe {
+  border: #dddddd solid 2px;
+}
+
+nav {
+  float: right;
+}
